@@ -1,0 +1,4 @@
+PyYAML==6.0.2
+aiohttp==3.11.12
+prometheus_client==0.21.1
+

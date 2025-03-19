@@ -1,0 +1,8 @@
+- headers:
+    user-agent: fetch-synthetic-monitor
+  method: GET
+  name: Wiki Home Page
+  url: https://www.wikipedia.org/
+
+
+
